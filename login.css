@@ -38,7 +38,7 @@ body {
 }
 
 .container {
-  width: 400px;
+  width: 500px;
   margin: auto;
   padding: 36px 48px 48px 48px;
   background-color: var(--cream);
